@@ -10,6 +10,7 @@ This web page is built using HTML and CSS, including the Box Model for precise e
 
 ## Credits
 [Orignal Template](https://codepen.io/travisw/pen/EvbKwd) by [Travis Williamson](https://codepen.io/travisw)
+Customized and adapted
 
 
 ## Project Review
